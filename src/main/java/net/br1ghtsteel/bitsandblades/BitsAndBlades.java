@@ -1,5 +1,8 @@
 package net.br1ghtsteel.bitsandblades;
 
+import net.br1ghtsteel.bitsandblades.block.ModBlocks;
+import net.br1ghtsteel.bitsandblades.item.ModItemGroups;
+import net.br1ghtsteel.bitsandblades.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -20,5 +23,9 @@ public class BitsAndBlades implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Fabric world!");
+        ModItemGroups.registerItemGroups();
+
+        ModItems.registerModItems();
+        ModBlocks.registerModBlocks();
 	}
 }

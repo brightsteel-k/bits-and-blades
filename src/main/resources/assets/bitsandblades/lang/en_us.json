@@ -1,0 +1,10 @@
+{
+  "itemgroup.bits_and_blades": "Bits and Blades",
+  "item.bitsandblades.raw_tin": "Raw Tin",
+  "item.bitsandblades.tin_ingot": "Tin Ingot",
+  "item.bitsandblades.bronze_ingot": "Bronze Ingot",
+
+  "block.bitsandblades.raw_tin_block": "Block of Raw Tin",
+  "block.bitsandblades.tin_block": "Block of Tin",
+  "block.bitsandblades.bronze_block": "Block of Bronze"
+}

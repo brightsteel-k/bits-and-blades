@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "bitsandblades:raw_tin_block",
+    "bitsandblades:tin_block",
+    "bitsandblades:bronze_block"
+  ]
+}
